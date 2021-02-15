@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: test
 title: "Axway Open-Source contributions"
 permalink: /
 ---
