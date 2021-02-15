@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defauslt
 title: "Axway Open-Source contributions"
 ---
 
