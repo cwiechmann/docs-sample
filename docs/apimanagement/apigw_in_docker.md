@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Gateway in Docker
-nav_order: 5
+nav_order: 15
+parent: API-Management
 ---
 
 ## Reduce Docker image size
