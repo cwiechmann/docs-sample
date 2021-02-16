@@ -1,5 +1,9 @@
 ---
 nav_order: 1
 layout: default
-title: "Axway Open-Source contributions"
+title: "Home"
+has_children: true
 ---
+
+# Welcome to the Axway Community Docs-Portal
+
