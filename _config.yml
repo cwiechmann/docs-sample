@@ -1,10 +1,10 @@
-title: Axway Open-Source Docs
-logo: "/assets/images/axway-logo.png"
+title: Axway Community Wiki
+logo: "/assets/images/Axway_logo_horiz_gray_red_cmyk.png"
 remote_theme: pmarsceill/just-the-docs 
 
 # Aux links for the upper right navigation
 aux_links:
-  "Axway Docs":
+  "Official Axway Documentation":
     - "//docs.axway.com"
 
 # Makes Aux links open in a new tab. Default is false
