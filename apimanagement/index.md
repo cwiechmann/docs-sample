@@ -5,6 +5,6 @@ nav_order: 5
 has_children: true
 ---
 
-# Axway API-Management docs
+# Axway API Management Community Wiki
 
-This user-created and maintained documentation is a reference for various Axway API Management topics from the projects of the Axway API Management Community.
+This user-created and maintained wiki provides resources for various Axway API Management topics through contributions from the projects of the Axway API Management Community. 
