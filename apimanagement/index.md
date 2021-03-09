@@ -7,4 +7,4 @@ has_children: true
 
 # Axway API-Management docs
 
-Here you will find community docs on the topic of Axway API management.
+This user-created and maintained documentation is a reference for various Axway API Management topics from the projects of the Axway API Management Community.
